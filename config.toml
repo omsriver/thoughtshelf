@@ -1,9 +1,9 @@
 baseurl = "https://omsriver.github.io/thoughtshelf/"
 languageCode = "en-us"
 title = "Om's River"
-googleAnalytics = "UA-84678477-1"
+
 
 [Params]
 	Author = "Mitul Shah"
 	disqusShortname = "omsriver-github-io"
-
+	googleAnalytics = "UA-84678477-1"
